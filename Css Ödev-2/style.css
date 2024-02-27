@@ -1,0 +1,44 @@
+.imgg {
+    display: block; 
+    margin: 100px auto 50px;
+}
+
+.explanation {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
+
+.explanation-input {
+    width: 300px;
+}
+
+.cards {
+    margin-top: 10px;
+}
+
+.card {
+    background-color: aqua;
+    float: left;
+    width: 32%;
+    height: 80px;
+    margin: 5px;
+    text-align: center;
+}
+
+.card-input {
+    width: 150px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 200px;
+    width: 100%;
+    text-align: center;
+}

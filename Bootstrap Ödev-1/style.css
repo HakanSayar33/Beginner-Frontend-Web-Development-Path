@@ -1,0 +1,34 @@
+body {
+    background-color: #E9ECEF;
+}
+
+#musicBox {
+    font-size: 20px;
+    font-weight:bold;
+    color:rgb(202, 221, 202); 
+    margin: 0;
+ }
+
+ #header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+ }
+
+ #items {
+    color: white;
+ }
+
+ .container {
+    height: 50px;
+  }
+
+  #item {
+    margin: 0;
+  }
+
+  #myProducts {
+    text-align: center;
+  }
+  
+
